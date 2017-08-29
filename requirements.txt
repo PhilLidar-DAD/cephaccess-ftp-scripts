@@ -1,5 +1,5 @@
 Fabric==1.8.1
-GDAL==1.10.0
+GDAL==2.2.1
 ecdsa==0.13
 futures==3.0.2
 lxml==3.4.2
